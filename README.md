@@ -1,4 +1,5 @@
 # TAG (HEC Paris X Tezos Hackaton)
+🥈 2nd palce 
 
 ## Descrition
 How our web 2.5 networking solution won us second place at the HEC Paris X Tezos hackathon 🚀
